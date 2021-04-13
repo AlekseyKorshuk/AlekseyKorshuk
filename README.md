@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/aleksey-korshuk-441507182" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aleksey-korshuk-441507182" height="30" width="40" /></a>
 <a href="https://instagram.com/_goodimpression_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_goodimpression_" height="30" width="40" /></a>
- <a href="https://t.me/goodimpression" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/telegram.svg" alt="goodimpression" height="40" width="40" /></a>
+ <a href="https://t.me/goodimpression" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/telegram.svg" alt="goodimpression" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseykorshuk&label=Visitors&color=0e75b6&style=flat" alt="alekseykorshuk" /> </p>
 
+<h3 align="left">My resume: <a href="https://AlekseyKorshuk.github.io" target="blank"> link</a></h3>
 
 
 <h3 align="left">Connect with me:</h3>

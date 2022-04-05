@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aleksey</h1>
 <h3 align="center">A passionate developer from Belarus</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseykorshuk&label=Visitors&color=0e75b6&style=flat" alt="alekseykorshuk" /> </p>
+<h3 align="left">Check my latest project:</h3> 
+<a href="https://github.com/AlekseyKorshuk/optimum-transformers" target="blank">Optimum Transformers</a> — accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime. Up to 1ms latency on Bert-based models!
 
 <h3 align="left">My resume: <a href="https://AlekseyKorshuk.github.io" target="blank"> link</a></h3>
 
@@ -21,3 +22,6 @@
 
 <h3 align="left">Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekseykorshuk&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="alekseykorshuk" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alekseykorshuk&label=Visitors&color=0e75b6&style=flat" alt="alekseykorshuk" /> </p>
+

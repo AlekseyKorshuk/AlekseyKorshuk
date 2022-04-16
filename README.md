@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aleksey</h1>
 <h3 align="center">A passionate developer from Belarus</h3>
 
-<h3 align="left">Check my latest project:</h3> 
+<h3 align="left">Check my latest projects:</h3> 
+<a href="https://github.com/AlekseyKorshuk/huggingnft" target="blank">Hugging NFT</a> — generate NFT or train new model in just few clicks! Train as much as you can, others will resume from checkpoint!
+<br><br>
 <a href="https://github.com/AlekseyKorshuk/optimum-transformers" target="blank">Optimum Transformers</a> — accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime. Up to 1ms latency on Bert-based models!
 
 <h3 align="left">My resume: <a href="https://AlekseyKorshuk.github.io" target="blank"> link</a></h3>

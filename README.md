@@ -6,7 +6,7 @@
 <br><br>
 <a href="https://github.com/AlekseyKorshuk/optimum-transformers" target="blank">Optimum Transformers</a> — accelerated NLP pipelines for fast inference on CPU and GPU. Built with Transformers, Optimum and ONNX Runtime. Up to 1ms latency on Bert-based models!
 
-<h3 align="left">My resume: <a href="https://AlekseyKorshuk.github.io" target="blank"> link</a></h3>
+<!-- <h3 align="left">My resume: <a href="https://AlekseyKorshuk.github.io" target="blank"> link</a></h3> -->
 
 
 <h3 align="left">Connect with me:</h3>
